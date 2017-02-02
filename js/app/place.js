@@ -12,6 +12,6 @@ const router = new VueRouter({
 })
 
  
-const place = new Vue({
+const index = new Vue({
   router
 }).$mount('#index')
