@@ -1,1 +1,7 @@
 .container {max-width: 960px;}
+ p {margin-bottom: 0px; margin-top: 5px; line-height: 1.25}
+.reviews {margin-top: 10px;}
+.short {border: 1px solid #eee;}
+.maps {background: #eee; height: 150px;}
+.p10 {padding: 10px}
+.container {width: 100%; max-width: 1300px;}
